@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    background-color: orange;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
+
+footer {
+    background-color:darkslategray ;
+    color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    }
+
+.Good{
+    font-size: 30px;
+    text-align: center;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
